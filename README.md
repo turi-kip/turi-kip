@@ -14,6 +14,7 @@ I'm currently studying web development and building my portfolio.
 - Git
 - GitHub
 - Figma
+- Linux
 
 ---
 
