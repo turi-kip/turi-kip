@@ -20,6 +20,10 @@ I'm currently studying web development and building my portfolio.
 
 ## 🌐 Portfolio
 
+### 🍂 Sweets Shop Page
+
+https://turi-kip.github.io/portfolio-shop/
+
 ### ☕ Cafe Landing Page
 
 https://turi-kip.github.io/portfolio-cafe/
