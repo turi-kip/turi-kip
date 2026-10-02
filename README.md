@@ -1,4 +1,4 @@
-# Hi, I'm Chihiro 👋
+# Hi, I'm Turi 👋
 
 I'm currently studying web development and building my portfolio.
 
